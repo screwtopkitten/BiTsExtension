@@ -1,0 +1,12 @@
+{
+    "apikeys":
+    	{ 
+        "trustarapikey":"enter key",
+        "trustarsecret": "enter secret",
+        "shodanapi": "enter key",
+        "virustotalapi": "enter key",  
+        "vtenabled": false,    
+        "shodanenabled":false,      
+        "trustarenabled": false
+    	}
+}

@@ -1,0 +1,248 @@
+[
+    {
+      "id": "Alien IP",
+      "title": "AlienVault OTX",
+      "parentId": "IP",
+      "URL": "https://otx.alienvault.com/indicator/ip/"
+    },
+    {
+      "id": "ARIN IP",
+      "title": "ARIN",
+      "parentId": "IP",
+      "URL": "https://search.arin.net/rdap/?query="
+    },
+    {
+      "id": "Censys IP",
+      "title": "Censys",
+      "parentId": "IP",
+      "URL": "https://censys.io/ipv4/"
+    },
+    {
+      "id": "GreyNoise IP",
+      "title": "GreyNoise",
+      "parentId": "IP",
+      "URL": "https://viz.greynoise.io/ip/"
+    },
+    {
+      "id": "HackerTarget Reverse IP",
+      "title": "HackerTarget",
+      "parentId": "IP",
+      "URL": "https://api.hackertarget.com/reverseiplookup/?q="
+    },
+    {
+      "id": "IPinfo IP",
+      "title": "IPinfo",
+      "parentId": "IP",
+      "URL": "https://ipinfo.io/"
+    },
+    {
+      "id": "IP Quality Score",
+      "title": "IP Quality Score",
+      "parentId": "IP",
+      "URL": "https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/lookup/"
+    },
+    {
+      "id": "MX Toolbox ARIN IP",
+      "title": "MX Toolbox",
+      "parentId": "IP",
+      "URL": "http://www.mxtoolbox.com/SuperTool.aspx?action=arin%3a"
+    },
+    {
+      "id": "SecurityTrails IP",
+      "title": "SecurityTrails",
+      "parentId": "IP",
+      "URL": "https://securitytrails.com/list/ip/"
+    },
+    {
+      "id": "Shodan IP",
+      "title": "Shodan",
+      "parentId": "IP",
+      "URL": "https://www.shodan.io/host/"
+    },
+    {
+      "id": "Spyse IP",
+      "title": "Spyse",
+      "parentId": "IP",
+      "URL": "https://spyse.com/target/ip/"
+    },
+    {
+      "id": "Talos IP",
+      "title": "Talos",
+      "parentId": "IP",
+      "URL": "https://talosintelligence.com/reputation_center/lookup?search="
+    },
+    {
+      "id": "ThreatCrowd IP",
+      "title": "ThreatCrowd",
+      "parentId": "IP",
+      "URL": "https://www.threatcrowd.org/pivot.php?data="
+    },
+    {
+      "id": "ThreatMiner IP",
+      "title": "ThreatMiner",
+      "parentId": "IP",
+      "URL": "https://www.threatminer.org/host.php?q="
+    },
+    {
+      "id": "TOR IP",
+      "title": "TOR Relay",
+      "parentId": "IP",
+      "URL": "https://metrics.torproject.org/rs.html#search/"
+    },
+    {
+      "id": "URLhaus IP",
+      "title": "URLhaus",
+      "parentId": "IP",
+      "URL": "https://urlhaus.abuse.ch/browse.php?search="
+    },
+    {
+      "id": "VT IP",
+      "title": "VirusTotal",
+      "parentId": "IP",
+      "URL": "https://www.virustotal.com/#/ip-address/"
+    },
+    {
+      "id": "X-Force IP",
+      "title": "X-Force",
+      "parentId": "IP",
+      "URL": "https://exchange.xforce.ibmcloud.com/ip/"
+    },
+    {
+      "id": "Alexa Domain",
+      "title": "Alexa",
+      "parentId": "Domain",
+      "URL": "https://www.alexa.com/siteinfo/"
+    },
+    {
+      "id": "BlueCoat Domain",
+      "title": "BlueCoat",
+      "parentId": "Domain",
+      "URL": "http://sitereview.bluecoat.com/#/lookup-result/"
+    },
+    {
+      "id": "Censys Domain",
+      "title": "Censys",
+      "parentId": "Domain",
+      "URL": "https://censys.io/domain?q="
+    },
+    {
+      "id": "host.io Domain",
+      "title": "host.io",
+      "parentId": "Domain",
+      "URL": "https://host.io/"
+    },
+    {
+      "id": "SecurityTrails Domain",
+      "title": "SecurityTrails",
+      "parentId": "Domain",
+      "URL": "https://securitytrails.com/domain/"
+    },
+    {
+      "id": "Shodan Domain",
+      "title": "Shodan",
+      "parentId": "Domain",
+      "URL": "https://www.shodan.io/search?query="
+    },
+    {
+      "id": "Spyse Domain",
+      "title": "Spyse",
+      "parentId": "Domain",
+      "URL": "https://spyse.com/target/domain/"
+    },
+    {
+      "id": "Talos Domain",
+      "title": "Talos",
+      "parentId": "Domain",
+      "URL": "https://talosintelligence.com/reputation_center/lookup?search="
+    },
+    {
+      "id": "ThreatCrowd Domain",
+      "title": "ThreatCrowd",
+      "parentId": "Domain",
+      "URL": "https://www.threatcrowd.org/pivot.php?data="
+    },
+    {
+      "id": "ThreatMiner Domain",
+      "title": "ThreatMiner",
+      "parentId": "Domain",
+      "URL": "https://www.threatminer.org/domain.php?q="
+    },
+    {
+      "id": "TOR Domain",
+      "title": "TOR Relay",
+      "parentId": "Domain",
+      "URL": "https://metrics.torproject.org/rs.html#search/"
+    },
+    {
+      "id": "URLhaus Domain",
+      "title": "URLhaus",
+      "parentId": "Domain",
+      "URL": "https://urlhaus.abuse.ch/browse.php?search="
+    },
+    {
+      "id": "VT Domain",
+      "title": "VirusTotal",
+      "parentId": "Domain",
+      "URL": "https://virustotal.com/#/domain/"
+    },
+    {
+      "id": "X-Force Domain",
+      "title": "X-Force",
+      "parentId": "Domain",
+      "URL": "https://exchange.xforce.ibmcloud.com/url/"
+    },
+    {
+      "id": "Alien Hash",
+      "title": "AlienVault OTX",
+      "parentId": "Hash",
+      "URL": "https://otx.alienvault.com/indicator/file/"
+    },
+    {
+      "id": "Hybrid Hash",
+      "title": "Hybrid Analysis",
+      "parentId": "Hash",
+      "URL": "https://www.hybrid-analysis.com/search?query="
+    },
+    {
+      "id": "ThreatMiner Hash",
+      "title": "ThreatMiner",
+      "parentId": "Hash",
+      "URL": "https://www.threatminer.org/sample.php?q="
+    },
+    {
+      "id": "URLhaus Hash",
+      "title": "URLhaus",
+      "parentId": "Hash",
+      "URL": "https://urlhaus.abuse.ch/browse.php?search="
+    },
+    {
+      "id": "VT Hash",
+      "title": "VirusTotal",
+      "parentId": "Hash",
+      "URL": "https://www.virustotal.com/#/file/"
+    },
+    {
+      "id": "X-Force Hash",
+      "title": "X-Force",
+      "parentId": "Hash",
+      "URL": "https://exchange.xforce.ibmcloud.com/malware/"
+    },
+    {
+      "id": "urlscan",
+      "title": "urlscan",
+      "parentId": "URL",
+      "URL": "https://urlscan.io/"
+    },
+    {
+      "id": "URLhaus URL",
+      "title": "URLhaus",
+      "parentId": "URL",
+      "URL": "https://urlhaus.abuse.ch/browse.php?search="
+    },
+    {
+      "id": "X-Force URL",
+      "title": "X-Force",
+      "parentId": "URL",
+      "URL": "https://exchange.xforce.ibmcloud.com/url/"
+    }
+   ]
